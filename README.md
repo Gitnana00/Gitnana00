@@ -1,5 +1,5 @@
-<samp>
 ### Hi I'm nana ❤️
+  
 <p align="left">
   <a href="https://github.com/Gitnana00/Gitnana00/">
     <img src="https://komarev.com/ghpvc/?username=Gitnana00" alt="Gitnana00" />
@@ -23,7 +23,7 @@
 <br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gitnana00&theme=dracula)](https://github.com/Gitnana00/github-readme-stats)
 
-</samp>
+
 
 <!--
 **Gitnana00/Gitnana00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
