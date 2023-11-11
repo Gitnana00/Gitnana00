@@ -1,4 +1,5 @@
-### Hi there ❤️
+<samp>
+### Hi I'm nana ❤️
 <p align="left">
   <a href="https://github.com/Gitnana00/Gitnana00/">
     <img src="https://komarev.com/ghpvc/?username=Gitnana00" alt="Gitnana00" />
@@ -21,6 +22,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Gitnana00&row=1&column=5&theme=onedark)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight)
 <br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gitnana00&theme=dracula)](https://github.com/Gitnana00/github-readme-stats)
+
+</samp>
 
 <!--
 **Gitnana00/Gitnana00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
