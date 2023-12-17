@@ -1,5 +1,3 @@
-<img alt="SNQ-2001" src="img/header.svg" width="98.2%" height="100%">
-
 <p align="left">
   <a href="https://github.com/Gitnana00/Gitnana00/">
     <img src="https://komarev.com/ghpvc/?username=Gitnana00" alt="Gitnana00" />
