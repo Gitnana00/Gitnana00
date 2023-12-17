@@ -24,12 +24,12 @@
                     white-space: nowrap;
                     overflow: hidden;
                     -webkit-animation: typing 2s steps(30, end), blink-caret .5s step-end infinite alternate;
-                    color: #00FFFF; /* 文字色を水色に変更 */
+                    color: #00FFFF;
                     text-shadow: #7fffff 0px 0 5px;
                 }
             </style>
             <div class="container">
-                <h1>ようこそ　ななのGitHubへ</h1>
+                <h1>Welcome to Nana_Shimizu</h1>
             </div>
         </div>
     </foreignObject>
